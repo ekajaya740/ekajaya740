@@ -1,4 +1,6 @@
-![Hello, World](https://user-images.githubusercontent.com/34807386/230739617-e4097466-c6bb-49c9-9215-8038afaa2a17.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34807386/230739617-e4097466-c6bb-49c9-9215-8038afaa2a17.gif" alt="Hello, World!" />
+</p>
 
 # Hello, World!👋
 
