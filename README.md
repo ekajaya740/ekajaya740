@@ -1,16 +1,16 @@
-### Hi there 👋
+![Hello, World](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+# Hello, World!👋
 
-<!--
-**ekajaya740/ekajaya740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Here are some ideas to get you started:
+I am a Full Stack developer from Indonesia 🇲🇨
+* Full of curiosity to know the latest update of technology
+* Code in Dart and Typescript, currently curious about Rust and its future 🚀
+* In my free time, I read technology articles or design in Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me at:
+> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+
