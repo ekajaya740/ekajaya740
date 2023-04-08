@@ -1,4 +1,5 @@
-![Hello, World](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Hello, World](https://user-images.githubusercontent.com/34807386/230739617-e4097466-c6bb-49c9-9215-8038afaa2a17.gif)
+
 # Hello, World!👋
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
