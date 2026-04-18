@@ -6,10 +6,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/1f33d73d-f1c7-43a2-a80f-8a16e97f3332.svg?style=for-the-badge)](https://wakatime.com/@1f33d73d-f1c7-43a2-a80f-8a16e97f3332)
 
-Results-oriented Fullstack Developer with 3+ years of experience architecting and building scalable web applications. Proficient in both front-end (React, Next.js, Nuxt) and back-end (Ruby on Rails, Node.js) technologies. Possesses a strong foundation in modern DevOps practices, including CI/CD pipeline automation with Jenkins, containerization with Docker, and orchestration with Kubernetes, to ensure robust and efficient deployments on cloud platforms like Google Cloud.
+Full-stack engineer focused on building scalable, production-ready web applications, with strong expertise in backend systems and cloud-native infrastructure. Experienced in designing and delivering end-to-end products using Spring Boot, Node.js, and modern frontend frameworks, with hands-on work in authentication, concurrency, and analytics. Actively integrates AI-assisted development workflows to enhance productivity and streamline software delivery.
 
 ## Reach me at:
 > [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ekajaya740/)
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekajaya740@gmail.com)
 > [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ekajaya740)
+> [![Profill](https://img.shields.io/badge/check_this_out-profill.link-orange?style=for-the-badge)](profill.link/ekajaua740)
 
